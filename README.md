@@ -1,8 +1,17 @@
+# New Arrivals
+
+| | Book |
+| :-----: | :----- |
+| ![Advanced and Optimization Based Sliding Mode Control](https://covers.openlibrary.org/b/id/9322681-M.jpg) | **Advanced and Optimization Based Sliding Mode Control** <br/>by A. Ferrara, G. P. Incremona, M. Cucuzzella <br/> ISBN: 9781611975833| 
+| ![Explanatory supplement to the Astronomical almanac](https://covers.openlibrary.org/b/id/9322677-M.jpg) | **Explanatory supplement to the Astronomical almanac** <br/>edited by Sean E. Urban and P. Kenneth Seidelmann <br/> ISBN: 9781891389856| 
+| ![Decision Making Under Uncertainty](https://covers.openlibrary.org/b/id/8312547-M.jpg) | **Decision Making Under Uncertainty** <br/>by Mykel J. Kochenderfer <br/> ISBN: 9780262029254| 
+| ![Parameter estimation and inverse problems](https://covers.openlibrary.org/b/id/9322683-M.jpg) | **Parameter estimation and inverse problems** <br/>by Richard C. Aster <br/> ISBN: 9780128046517| 
+| ![Astronomical Algorithms](https://covers.openlibrary.org/b/id/6452684-M.jpg) | **Astronomical Algorithms** <br/>by Jean Meeus <br/> ISBN: 9780943396613| 
+
 # Signal Processing
 
 | | Book |
 | :-----: | :----- |
-| ![Decision Making Under Uncertainty](https://covers.openlibrary.org/b/id/8312547-M.jpg) | **Decision Making Under Uncertainty** <br/>by Mykel J. Kochenderfer <br/> ISBN: 9780262029254| 
 | ![Signals & systems](https://covers.openlibrary.org/b/id/92117-M.jpg) | **Signals & systems** <br/>by Alan V. Oppenheim, Alan S. Willsky, with S. Hamid Nawab. <br/> ISBN: 0138147574| 
 | ![Fundamentals of digital signal processing.](https://covers.openlibrary.org/b/id/8312540-M.jpg) | **Fundamentals of digital signal processing.** <br/>by Lonnie C. Ludeman <br/> ISBN: 9780471603634| 
 | ![Statistical and adaptive signal processing](https://covers.openlibrary.org/b/id/1939462-M.jpg) | **Statistical and adaptive signal processing** <br/>by Dimitris G. Manolakis, Vinay K. Ingle, Stephen M. Kogon. <br/> ISBN: 9781580536103| 
@@ -36,19 +45,15 @@
 | | Book |
 | :-----: | :----- |
 | ![Introduction to Fourier optics](https://covers.openlibrary.org/b/id/740509-M.jpg) | **Introduction to Fourier optics** <br/>by Joseph W. Goodman. <br/> ISBN: 0974707724| 
-| ![Robert Shannon And Roland Shack Legends In Applied Optics](https://covers.openlibrary.org/b/id/7608637-M.jpg) | **Robert Shannon And Roland Shack Legends In Applied Optics** <br/>by edited by James E. Harvey and R. Brian Hooker <br/> ISBN: 0819458449| 
-| ![Thermal imaging systems](https://covers.openlibrary.org/b/id/4481600-M.jpg) | **Thermal imaging systems** <br/>by J. M. Lloyd. <br/> ISBN: 0306308487| 
-| ![Photonics rules of thumb](https://covers.openlibrary.org/b/id/57820-M.jpg) | **Photonics rules of thumb** <br/>by Ed Friedman, John Lester Miller. <br/> ISBN: 0071385193| 
-| ![Photonics essentials](https://covers.openlibrary.org/b/id/8312525-M.jpg) | **Photonics essentials** <br/>by Thomas P. Pearsall. <br/> ISBN: 0819465089| 
+| ![Integrated optomechanical analysis](https://covers.openlibrary.org/b/id/8312560-M.jpg) | **Integrated optomechanical analysis** <br/>by Keith B. Doyle, Victor L. Genberg, Gregory J. Michels. <br/> ISBN: 9780819492487| 
 | ![Electromagnetic Wave Propagation in Turbulence](https://covers.openlibrary.org/b/id/2652151-M.jpg) | **Electromagnetic Wave Propagation in Turbulence** <br/>by Richard J. Sasiela <br/> ISBN: 9780819467287| 
 | ![Imaging through turbulence](https://covers.openlibrary.org/b/id/1596890-M.jpg) | **Imaging through turbulence** <br/>by Michael C. Roggemann, Byron Welsh. <br/> ISBN: 0849337879| 
 | ![Hyperspectral remote sensing](https://covers.openlibrary.org/b/id/8312526-M.jpg) | **Hyperspectral remote sensing** <br/>by Michael Eismann <br/> ISBN: 9780819487872| 
 | ![Laser Fundamentals](https://covers.openlibrary.org/b/id/8312534-M.jpg) | **Laser Fundamentals** <br/>by William T. Silfvast <br/> ISBN: 9780521833455| 
+| ![Laser beam propagation through random media](https://covers.openlibrary.org/b/id/1554875-M.jpg) | **Laser beam propagation through random media** <br/>by Larry C. Andrews, Ronald L. Phillips. <br/> ISBN: 9780819459480| 
 | ![Optical engineering fundamentals](https://covers.openlibrary.org/b/id/8312537-M.jpg) | **Optical engineering fundamentals** <br/>by Bruce Walker. <br/> ISBN: 9780819475404| 
-| ![Integrated optomechanical analysis](https://covers.openlibrary.org/b/id/8312560-M.jpg) | **Integrated optomechanical analysis** <br/>by Keith B. Doyle, Victor L. Genberg, Gregory J. Michels. <br/> ISBN: 9780819492487| 
 | ![Introduction to adaptive optics](https://covers.openlibrary.org/b/id/8312561-M.jpg) | **Introduction to adaptive optics** <br/>by Robert K. Tyson <br/> ISBN: 9780819435118| 
 | ![Field guide to adaptive optics](https://covers.openlibrary.org/b/id/8312562-M.jpg) | **Field guide to adaptive optics** <br/>by Robert K. Tyson, Benjamin W. Frazier <br/> ISBN: 9780819490179| 
-| ![Laser beam propagation through random media](https://covers.openlibrary.org/b/id/1554875-M.jpg) | **Laser beam propagation through random media** <br/>by Larry C. Andrews, Ronald L. Phillips. <br/> ISBN: 9780819459480| 
 | ![High dynamic range imaging](https://covers.openlibrary.org/b/id/8312563-M.jpg) | **High dynamic range imaging** <br/>by Arnaud Darmont <br/> ISBN: 9780819488305| 
 | ![Introduction to radiometry](https://covers.openlibrary.org/b/id/617951-M.jpg) | **Introduction to radiometry** <br/>by William L. Wolfe. <br/> ISBN: 9780819427588| 
 | ![Analysis of sampled imaging systems](https://covers.openlibrary.org/b/id/8312564-M.jpg) | **Analysis of sampled imaging systems** <br/>by Richard H. Vollmerhausen and Ronald G. Driggers. <br/> ISBN: 9780819434890| 
@@ -62,18 +67,22 @@
 | ![The design and construction of large optical telescopes](https://covers.openlibrary.org/b/id/8312581-M.jpg) | **The design and construction of large optical telescopes** <br/>by Pierre Y. Bely, editor. <br/> ISBN: 9780387955124| 
 | ![Surveillance and Reconnaissance Systems](https://covers.openlibrary.org/b/id/8312582-M.jpg) | **Surveillance and Reconnaissance Systems** <br/>by Jon C. Leachtenauer, Ronald G. Driggers <br/> ISBN: 9781580531320| 
 | ![Foundations of image science](https://covers.openlibrary.org/b/id/8312583-M.jpg) | **Foundations of image science** <br/>by Harrison H. Barrett, Kyle J. Myers <br/> ISBN: 9780471153009| 
+| ![Photonics rules of thumb](https://covers.openlibrary.org/b/id/57820-M.jpg) | **Photonics rules of thumb** <br/>by Ed Friedman, John Lester Miller. <br/> ISBN: 0071385193| 
+| ![Photonics essentials](https://covers.openlibrary.org/b/id/8312525-M.jpg) | **Photonics essentials** <br/>by Thomas P. Pearsall. <br/> ISBN: 0819465089| 
+| ![Robert Shannon And Roland Shack Legends In Applied Optics](https://covers.openlibrary.org/b/id/7608637-M.jpg) | **Robert Shannon And Roland Shack Legends In Applied Optics** <br/>edited by James E. Harvey and R. Brian Hooker <br/> ISBN: 0819458449| 
+| ![Thermal imaging systems](https://covers.openlibrary.org/b/id/4481600-M.jpg) | **Thermal imaging systems** <br/>by J. M. Lloyd. <br/> ISBN: 0306308487| 
 
 # Spacecraft
 
 | | Book |
 | :-----: | :----- |
-| ![Space mission engineering](https://covers.openlibrary.org/b/id/8312587-M.jpg) | **Space mission engineering** <br/>by edited by James R. Wertz, David F. Everett, Jeffery J. Puschell <br/> ISBN: 9781881883159| 
+| ![Space mission engineering](https://covers.openlibrary.org/b/id/8312587-M.jpg) | **Space mission engineering** <br/>edited by James R. Wertz, David F. Everett, Jeffery J. Puschell <br/> ISBN: 9781881883159| 
 | ![Space Mission Analysis and Design, 3rd edition (Space Technology Library) (Space Technology Library)](https://covers.openlibrary.org/b/id/928071-M.jpg) | **Space Mission Analysis and Design, 3rd edition (Space Technology Library) (Space Technology Library)** <br/>by James R. Wertz, Wiley J. Larson <br/> ISBN: 9781881883104| 
 | ![Satellite communications](https://covers.openlibrary.org/b/id/1080450-M.jpg) | **Satellite communications** <br/>by Dennis Roddy. <br/> ISBN: 9780071462983| 
 | ![Optical Satellite Data Compression and Implementation](https://covers.openlibrary.org/b/id/8312558-M.jpg) | **Optical Satellite Data Compression and Implementation** <br/>by Shen-En Qian <br/> ISBN: 9780819497871| 
 | ![Optical Satellite Signal Processing and Enhancement](https://covers.openlibrary.org/b/id/8312575-M.jpg) | **Optical Satellite Signal Processing and Enhancement** <br/>by Shen-En Qian <br/> ISBN: 9780819493286| 
 | ![Space vehicle design](https://covers.openlibrary.org/b/id/797416-M.jpg) | **Space vehicle design** <br/>by Michael D. Griffin, James R. French. <br/> ISBN: 9781563475399| 
-| ![Spacecraft systems engineering](https://covers.openlibrary.org/b/id/8312576-M.jpg) | **Spacecraft systems engineering** <br/>by edited by Peter Fortescue, John Stark, Graham Swinerd <br/> ISBN: 9780470750124| 
+| ![Spacecraft systems engineering](https://covers.openlibrary.org/b/id/8312576-M.jpg) | **Spacecraft systems engineering** <br/>edited by Peter Fortescue, John Stark, Graham Swinerd <br/> ISBN: 9780470750124| 
 | ![Fundamentals of spacecraft charging](https://covers.openlibrary.org/b/id/8312577-M.jpg) | **Fundamentals of spacecraft charging** <br/>by Shu T. Lai <br/> ISBN: 9781600868368| 
 | ![Orbital mechanics for engineering students](https://covers.openlibrary.org/b/id/8312588-M.jpg) | **Orbital mechanics for engineering students** <br/>by Howard D. Curtis. <br/> ISBN: 9780750661690| 
 
@@ -81,10 +90,10 @@
 
 | | Book |
 | :-----: | :----- |
+| ![Digital communications](https://covers.openlibrary.org/b/id/84555-M.jpg) | **Digital communications** <br/>by Bernard Sklar. <br/> ISBN: 9780130847881| 
 | ![Introduction to Digital Communications](https://covers.openlibrary.org/b/id/1141708-M.jpg) | **Introduction to Digital Communications** <br/>by Michael B. Pursley <br/> ISBN: 9780201184938| 
 | ![Telegraph, Telephone & Wireless](https://covers.openlibrary.org/b/id/8312528-M.jpg) | **Telegraph, Telephone & Wireless** <br/>by Bert Lundy <br/> ISBN: 9781439265529| 
 | ![Data and computer communications](https://covers.openlibrary.org/b/id/8312527-M.jpg) | **Data and computer communications** <br/>by William Stallings. <br/> ISBN: 9780132433105| 
-| ![Digital communications](https://covers.openlibrary.org/b/id/84555-M.jpg) | **Digital communications** <br/>by Bernard Sklar. <br/> ISBN: 9780130847881| 
 
 # Electromagnetics
 
@@ -133,5 +142,5 @@
 | ![Introduction to thermal systems engineering](https://covers.openlibrary.org/b/id/8312544-M.jpg) | **Introduction to thermal systems engineering** <br/>by Michael J. Moran, et al. <br/> ISBN: 9780471204909| 
 | ![The engineering design of systems](https://covers.openlibrary.org/b/id/8312571-M.jpg) | **The engineering design of systems** <br/>by Dennis M. Buede. <br/> ISBN: 0471282251| 
 | ![National Electrical Code 2005 Handbook (National Fire Protection Association//National Electrical Code Handbook)](https://covers.openlibrary.org/b/id/8312579-M.jpg) | **National Electrical Code 2005 Handbook (National Fire Protection Association//National Electrical Code Handbook)** <br/>by NFPA <br/> ISBN: 9780877656258| 
-| ![Systems engineering and analysis](https://covers.openlibrary.org/b/id/8312589-M.jpg) | **Systems engineering and analysis** <br/>by Benjamin S. Blanchard, Wolter J. Fabrycky. <br/> ISBN: 9780132217354| 
+| ![Systems engineering and analysis](https://covers.openlibrary.org/b/id/9322700-M.jpg) | **Systems engineering and analysis** <br/>by Benjamin S. Blanchard <br/> ISBN: 9780132217354| 
 
