@@ -2,11 +2,21 @@
 
 | | Book |
 | :-----: | :----- |
-| ![Advanced and Optimization Based Sliding Mode Control](https://covers.openlibrary.org/b/id/9322681-M.jpg) | **Advanced and Optimization Based Sliding Mode Control** <br/>by A. Ferrara, G. P. Incremona, M. Cucuzzella <br/> ISBN: 9781611975833| 
-| ![Explanatory supplement to the Astronomical almanac](https://covers.openlibrary.org/b/id/9322677-M.jpg) | **Explanatory supplement to the Astronomical almanac** <br/>edited by Sean E. Urban and P. Kenneth Seidelmann <br/> ISBN: 9781891389856| 
-| ![Decision Making Under Uncertainty](https://covers.openlibrary.org/b/id/8312547-M.jpg) | **Decision Making Under Uncertainty** <br/>by Mykel J. Kochenderfer <br/> ISBN: 9780262029254| 
-| ![Parameter estimation and inverse problems](https://covers.openlibrary.org/b/id/9322683-M.jpg) | **Parameter estimation and inverse problems** <br/>by Richard C. Aster <br/> ISBN: 9780128046517| 
-| ![Astronomical Algorithms](https://covers.openlibrary.org/b/id/6452684-M.jpg) | **Astronomical Algorithms** <br/>by Jean Meeus <br/> ISBN: 9780943396613| 
+| ![Introduction to graph theory](https://covers.openlibrary.org/b/id/315179-M.jpg) | **Introduction to graph theory** <br/>by Richard J. Trudeau. <br/> ISBN: 9780486678702| 
+| ![Introductory discrete mathematics](https://covers.openlibrary.org/b/id/315235-M.jpg) | **Introductory discrete mathematics** <br/>by V.K. Balakrishnan. <br/> ISBN: 9780486691152| 
+| ![Proofs](https://covers.openlibrary.org/b/id/14627899-M.jpg) | **Proofs** <br/>by Jay Cummings <br/> ISBN: 9798595265973| 
+| ![Essential Discrete Mathematics for Computer Science](https://covers.openlibrary.org/b/id/8801611-M.jpg) | **Essential Discrete Mathematics for Computer Science** <br/>by Harry Lewis <br/> ISBN: 9780691179292| 
+| ![Visual Differential Geometry and Forms](https://covers.openlibrary.org/b/id/13149949-M.jpg) | **Visual Differential Geometry and Forms** <br/>by Tristan Needham <br/> ISBN: 9780691203690| 
+| ![A Visual Introduction to Differential Forms and Calculus on Manifolds](https://covers.openlibrary.org/b/id/10128570-M.jpg) | **A Visual Introduction to Differential Forms and Calculus on Manifolds** <br/>by Jon Pierre Fortney <br/> ISBN: 9783319969916| 
+| ![Optics and Artificial Vision Hb](https://covers.openlibrary.org/b/id/14627900-M.jpg) | **Optics and Artificial Vision Hb** <br/>by CHAPARRO-ROMO GONZALEZ-ACUNA <br/> ISBN: 9780750337052| 
+| ![Semiconductor Memory Devices and Circuits](https://covers.openlibrary.org/b/id/14627901-M.jpg) | **Semiconductor Memory Devices and Circuits** <br/>by Shimeng Yu <br/> ISBN: 9780367687076| 
+| ![A practical guide to SysML](https://covers.openlibrary.org/b/id/14627902-M.jpg) | **A practical guide to SysML** <br/>by Sanford Friedenthal, Alan Moore, Rick Steiner <br/> ISBN: 9780128002025| 
+| ![Sysml Distilled A Brief Guide To The Systems Modeling Language](https://covers.openlibrary.org/b/id/7851852-M.jpg) | **Sysml Distilled A Brief Guide To The Systems Modeling Language** <br/>by Lenny Delligatti <br/> ISBN: 9780321927866| 
+| ![Architecting Spacecraft with SysML](https://covers.openlibrary.org/b/id/12529021-M.jpg) | **Architecting Spacecraft with SysML** <br/>by Sanford Friedenthal <br/> ISBN: 9781544288062| 
+| ![Agile Model-Based Systems Engineering Cookbook](https://covers.openlibrary.org/b/id/13468577-M.jpg) | **Agile Model-Based Systems Engineering Cookbook** <br/>by Bruce Powel Douglass <br/> ISBN: 9781803235820| 
+| ![Integral Transforms and Their Applications, Third Edition](https://covers.openlibrary.org/b/id/14627903-M.jpg) | **Integral Transforms and Their Applications, Third Edition** <br/>by Lokenath Debnath <br/> ISBN: 9781482223576| 
+| ![A Primer on Pontryagin's Principle in Optimal Control](https://covers.openlibrary.org/b/id/12384966-M.jpg) | **A Primer on Pontryagin's Principle in Optimal Control** <br/>by I. Michael Ross <br/> ISBN: 9780984357116| 
+| ![Matrix computations](https://covers.openlibrary.org/b/id/8779096-M.jpg) | **Matrix computations** <br/>by Gene H. Golub <br/> ISBN: 9781421407944| 
 
 # Signal Processing
 
@@ -24,6 +34,8 @@
 | ![Discrete random signals and statistical signal processing](https://covers.openlibrary.org/b/id/8312573-M.jpg) | **Discrete random signals and statistical signal processing** <br/>by Charles W. Therrien. <br/> ISBN: 9780615216621| 
 | ![An introduction to nonlinear image processing](https://covers.openlibrary.org/b/id/3946658-M.jpg) | **An introduction to nonlinear image processing** <br/>by Edward R. Dougherty, Jaakko Astola. <br/> ISBN: 9780819415608| 
 | ![Signal processing and performance analysis for imaging systems](https://covers.openlibrary.org/b/id/8312580-M.jpg) | **Signal processing and performance analysis for imaging systems** <br/>by S. Susan Young, Ronald G. Driggers, Eddie L. Jacobs. <br/> ISBN: 9781596932876| 
+| ![Decision Making Under Uncertainty](https://covers.openlibrary.org/b/id/8312547-M.jpg) | **Decision Making Under Uncertainty** <br/>by Mykel J. Kochenderfer <br/> ISBN: 9780262029254| 
+| ![Parameter estimation and inverse problems](https://covers.openlibrary.org/b/id/9322683-M.jpg) | **Parameter estimation and inverse problems** <br/>by Richard C. Aster <br/> ISBN: 9780128046517| 
 
 # Math
 
@@ -85,6 +97,8 @@
 | ![Spacecraft systems engineering](https://covers.openlibrary.org/b/id/8312576-M.jpg) | **Spacecraft systems engineering** <br/>edited by Peter Fortescue, John Stark, Graham Swinerd <br/> ISBN: 9780470750124| 
 | ![Fundamentals of spacecraft charging](https://covers.openlibrary.org/b/id/8312577-M.jpg) | **Fundamentals of spacecraft charging** <br/>by Shu T. Lai <br/> ISBN: 9781600868368| 
 | ![Orbital mechanics for engineering students](https://covers.openlibrary.org/b/id/8312588-M.jpg) | **Orbital mechanics for engineering students** <br/>by Howard D. Curtis. <br/> ISBN: 9780750661690| 
+| ![Explanatory supplement to the Astronomical almanac](https://covers.openlibrary.org/b/id/9322677-M.jpg) | **Explanatory supplement to the Astronomical almanac** <br/>edited by Sean E. Urban and P. Kenneth Seidelmann <br/> ISBN: 9781891389856| 
+| ![Astronomical Algorithms](https://covers.openlibrary.org/b/id/10456326-M.jpg) | **Astronomical Algorithms** <br/>by Jean Meeus <br/> ISBN: 9780943396613| 
 
 # Communications
 
@@ -93,7 +107,7 @@
 | ![Digital communications](https://covers.openlibrary.org/b/id/84555-M.jpg) | **Digital communications** <br/>by Bernard Sklar. <br/> ISBN: 9780130847881| 
 | ![Introduction to Digital Communications](https://covers.openlibrary.org/b/id/1141708-M.jpg) | **Introduction to Digital Communications** <br/>by Michael B. Pursley <br/> ISBN: 9780201184938| 
 | ![Telegraph, Telephone & Wireless](https://covers.openlibrary.org/b/id/8312528-M.jpg) | **Telegraph, Telephone & Wireless** <br/>by Bert Lundy <br/> ISBN: 9781439265529| 
-| ![Data and computer communications](https://covers.openlibrary.org/b/id/8312527-M.jpg) | **Data and computer communications** <br/>by William Stallings. <br/> ISBN: 9780132433105| 
+| ![Data and computer communications](https://covers.openlibrary.org/b/id/14627904-M.jpg) | **Data and computer communications** <br/>by William Stallings. <br/> ISBN: 9780132433105| 
 
 # Electromagnetics
 
@@ -117,6 +131,7 @@
 | ![Optimal Control Theory](https://covers.openlibrary.org/b/id/8312538-M.jpg) | **Optimal Control Theory** <br/>by Donald E. Kirk <br/> ISBN: 9780486434841| 
 | ![Linear optimal control](https://covers.openlibrary.org/b/id/1142743-M.jpg) | **Linear optimal control** <br/>by Jeffrey B. Burl. <br/> ISBN: 9780201808681| 
 | ![Applied nonlinear control](https://covers.openlibrary.org/b/id/82927-M.jpg) | **Applied nonlinear control** <br/>by Jean-Jacques E. Slotine, Weiping Li. <br/> ISBN: 9780130408907| 
+| ![Advanced and Optimization Based Sliding Mode Control](https://covers.openlibrary.org/b/id/9322681-M.jpg) | **Advanced and Optimization Based Sliding Mode Control** <br/>by A. Ferrara, G. P. Incremona, M. Cucuzzella <br/> ISBN: 9781611975833| 
 | ![Adaptive control](https://covers.openlibrary.org/b/id/135184-M.jpg) | **Adaptive control** <br/>by Karl Johan Åström, Björn Wittenmark. <br/> ISBN: 9780201558661| 
 | ![Feedback control of dynamic systems](https://covers.openlibrary.org/b/id/87768-M.jpg) | **Feedback control of dynamic systems** <br/>by Gene F. Franklin, J. David Powell, Abbas Emami-Naeini. <br/> ISBN: 9780131499300| 
 
